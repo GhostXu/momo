@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Android\immomo\app\src\main\jniLibs"><file name="armeabi/libimmomoUrl.so" path="E:\Android\immomo\app\src\main\jniLibs\armeabi\libimmomoUrl.so"/><file name="armeabi/liblocSDK4.so" path="E:\Android\immomo\app\src\main\jniLibs\armeabi\liblocSDK4.so"/></source></dataSet><dataSet config="debug"><source path="E:\Android\immomo\app\src\debug\jniLibs"/></dataSet></merger>

@@ -1,0 +1,25 @@
+{
+  "uid": "momo_p_001",
+  "avatar": "nearby_people_1",
+  "name": "篮球小子",
+  "gender": "1",
+  "age": "25",
+  "constellation": "狮子座",
+  "distance": "0.08km",
+  "time": "53分钟前",
+  "signature": {
+    "sign": "下午三点17号楼东边篮球场一起运动吧",
+    "sign_pic": "nearby_people_1_1",
+    "sign_dis": "6.21km"
+  },
+  "photos": [
+    "nearby_people_1_1",
+    "nearby_people_1_2",
+    "nearby_people_1_3",
+    "nearby_people_1_4",
+    "nearby_people_1_5",
+    "nearby_people_1_6",
+    "nearby_people_1_7",
+    "nearby_people_1_8"
+  ]
+}

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bglistitem_selector_user"
+        android:gravity="center_vertical"
+        android:padding="6dip" >
+
+        <!--<FrameLayout
+            android:id="@+id/notice_item_layout_avatar"
+            android:layout_width="77dip"
+            android:layout_height="77dip"
+            android:layout_marginRight="10dip" >
+
+            <ImageView
+                android:id="@+id/notice_item_iv_avatar"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:scaleType="fitXY"/>
+
+            &lt;!&ndash;<ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/bglistitem_selector_session_select"
+                android:duplicateParentState="true"
+                android:scaleType="fitXY" />&ndash;&gt;
+        </FrameLayout>-->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="7dip"
+                android:layout_weight="1"
+                android:gravity="center" >
+
+               <LinearLayout
+                    android:id="@+id/notice_item_layout_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dip"
+                    android:orientation="horizontal" >
+
+                </LinearLayout>
+
+               <com.immomo.momo.android.view.HandyTextView
+                    android:id="@+id/notice_item_htv_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/notice_item_layout_icon"
+                    android:singleLine="true"
+                    android:textColor="@color/text_color"
+                    android:textSize="17sp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="3dip"
+                android:layout_weight="1"
+                android:focusable="false"
+                android:gravity="left|center"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/notice_item_layout_gender"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="5dip"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:paddingBottom="2dip"
+                    android:paddingLeft="5dip"
+                    android:paddingRight="5dip"
+                    android:paddingTop="2dip" >
+
+
+                    <com.immomo.momo.android.view.HandyTextView
+                        android:id="@+id/notice_item_htv_age"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="2dip"
+                        android:textColor="@color/white"
+                        android:textSize="10sp" />
+                </LinearLayout>
+
+                <com.immomo.momo.android.view.HandyTextView
+                    android:id="@+id/notice_item_htv_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/font_value"
+                    android:textSize="12sp" />
+
+                <!--<LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="left|center"
+                    android:orientation="horizontal" >
+
+                    <com.immomo.momo.android.view.HandyTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" | "
+                        android:textColor="@color/font_value"
+                        android:textSize="12sp" />
+
+                    <com.immomo.momo.android.view.HandyTextView
+                        android:id="@+id/notice_item_htv_time"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textColor="@color/font_value"
+                        android:textSize="12sp" />
+                </LinearLayout>-->
+            </LinearLayout>
+
+            <com.immomo.momo.android.view.HandyTextView
+                android:id="@+id/notice_item_htv_sign"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:textColor="@color/font_value"
+                android:textSize="13sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:background="@color/devideline_listview" />
+
+</LinearLayout>

@@ -1,0 +1,42 @@
+[
+  {
+    "address": "学院路888号",
+    "distance": "0.09km",
+    "group_count": "3",
+    "groups": [
+      {
+        "avatar": "nearby_group_1",
+        "name": "爱学习的我们哈哈哈",
+        "isNew": "0",
+        "isParty": "0",
+        "memberCount": "23",
+        "memberTotal": "30",
+        "isVip": "0",
+        "level": "1",
+        "sign": "毛主席说活到老学到老"
+      },
+      {
+        "avatar": "nearby_group_2",
+        "name": "要运动的我们啊哈",
+        "isNew": "1",
+        "isParty": "0",
+        "memberCount": "11",
+        "memberTotal": "20",
+        "isVip": "0",
+        "level": "0",
+        "sign": "坐着多无聊，动起来吧，come on"
+      },
+      {
+        "avatar": "nearby_group_3",
+        "name": "科大最帅的学子",
+        "isNew": "1",
+        "isParty": "0",
+        "memberCount": "5",
+        "memberTotal": "20",
+        "isVip": "0",
+        "level": "0",
+        "sign": "考研交流"
+      }
+    ]
+  }
+]

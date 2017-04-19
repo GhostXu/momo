@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\immomo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aaf993cafe7c565c120e218de8f2403484436d7c">
+        <dex dex="E:\Android\immomo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_56d1c2401d8e2245c5515ba3f0931c10a1cb0543\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\immomo\app\libs\json-lib-2.4-jdk15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="136743e0d12df4e785e62b48618cee169b2ae546">
+        <dex dex="E:\Android\immomo\app\build\intermediates\transforms\dex\debug\folders\1000\2\json-lib-2.4-jdk15_d1965ba75290c6d65b5bce9c280690ea0a56a8f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\immomo\app\libs\commons-beanutils-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c41fee1b50b22ac23ac99388f649b9a634e8346">
+        <dex dex="E:\Android\immomo\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-beanutils-1.9.2_03b3a585629147808f10394f30d3930365f2b012\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\immomo\app\libs\commons-collections-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="761ea405b9b37ced573d2df0d1e3a4e0f9edc668">
+        <dex dex="E:\Android\immomo\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-collections-3.2.1_8b21abb83930a3d3942e88484880267912686691\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\immomo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Android\immomo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_26135875213f2c78f9e43ae078603615573e6858\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Android\immomo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_fff5ba9dcfc3fb927efe66bf6ce29e1891a7463e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\immomo\app\libs\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="E:\Android\immomo\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.8.0_0b361f229db8aba9c70737a02b8deeb3d302338b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\immomo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a965ca19c408a8654c2108b889a6460259be7f90">
+        <dex dex="E:\Android\immomo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_14acaadc178c0f3d247f623f4679fc85c8c6bc53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\immomo\app\libs\ezmorph-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01e55d2a0253ea37745d33062852fd2c90027432">
+        <dex dex="E:\Android\immomo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ezmorph-1.0.6_544defbeed4469243c85378de36ead65633b0c61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\immomo\app\libs\commons-logging-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d859791fbf7d880591864bd4004d8442a8a3b81">
+        <dex dex="E:\Android\immomo\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging-1.1.1_fe8948dd25eea2bd8211882b344d8061dc678e86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\immomo\app\libs\locSDK_4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8b405c3054e12d913fa5aafb160c294e642dc673">
+        <dex dex="E:\Android\immomo\app\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_4.0_65ebb6037240b3c5d4df9268fdd9c24748f6eba3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\immomo\app\libs\commons-lang-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50596100265634884b6e6b487d935c35fda1a897">
+        <dex dex="E:\Android\immomo\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-lang-2.5_ff632020f91cd66160f2a455ebb2261d2247cbd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\immomo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Android\immomo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_2332af43e91d854d99ac77d6be5a525ba18e114f\classes.dex" />
+    </item>
+
+</items>

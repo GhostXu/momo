@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_headerbar_spinner.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\common_headerbar_spinner.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_shortline.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_message_shortline.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_header_rightimagebutton.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_header_rightimagebutton.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_register_photo.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_register_photo.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_userphoto_avatar_item.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_userphoto_avatar_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_web.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_dialog_web.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nearbypeople.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\fragment_nearbypeople.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagebrowser.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_imagebrowser.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_nearby_group_header.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_nearby_group_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_accountinfo.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_otherprofile_accountinfo.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_register_setpwd.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_register_setpwd.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_industry.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_industry.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otherprofile.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_otherprofile.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_headerbar.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\common_headerbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_tabbar_item_lightblue.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\common_tabbar_item_lightblue.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_text.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\message_text.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otherfeedlist.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_otherfeedlist.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_abouttabs.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_abouttabs.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_findpwdtabs.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_findpwdtabs.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_bottombar_tab_chat.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\common_bottombar_tab_chat.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_register_baseinfo.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_register_baseinfo.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_feedcomment.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\listitem_feedcomment.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_feed.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\listitem_feed.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_findpwdemail.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_findpwdemail.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_register_verify.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_register_verify.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pull_to_refresh.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_pull_to_refresh.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nearbyfeeds.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_nearbyfeeds.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_loading_indicator.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_loading_indicator.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_chat.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_dialog_chat.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_group_send_template.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\message_group_send_template.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_edittext.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_dialog_edittext.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nearbyfeed.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\fragment_nearbyfeed.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pull_to_refreshing_header.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_pull_to_refreshing_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userguide.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_userguide.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maintabs.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_maintabs.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_nearby_group.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\listitem_nearby_group.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_dialog.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\listitem_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_userguide_item.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_userguide_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_filter_item.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\listitem_filter_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_welcome_item.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_welcome_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_bindinfo.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_otherprofile_bindinfo.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nearbygroup.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\fragment_nearbygroup.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_bottombar_tab_nearby.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\common_bottombar_tab_nearby.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_bottombar_tab_friend.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\common_bottombar_tab_friend.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contacttabs.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_contacttabs.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedprofile.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_feedprofile.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_header.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_header_righttext.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_header_righttext.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_bottombar_tab_site.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\common_bottombar_tab_site.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_textditor.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_message_textditor.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nearby.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_nearby.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_emotionbar.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\common_emotionbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_register_birthday.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_register_birthday.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_userphoto_avatar.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\common_userphoto_avatar.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_notice.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\listitem_notice.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_imagefactory_crop.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_imagefactory_crop.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_register_phone.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_register_phone.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_timestamp.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\message_timestamp.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resetpwdphone.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_resetpwdphone.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_flipping_loading_diloag.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\common_flipping_loading_diloag.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_joingroup.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_otherprofile_joingroup.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_user.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\listitem_user.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_feed.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\header_feed.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_findpwdphone.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_findpwdphone.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_photos.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_otherprofile_photos.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog_generic.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\common_dialog_generic.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_userphoto.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\common_userphoto.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\otherprofile_joingroup_item.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\otherprofile_joingroup_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_map.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\message_map.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sessionlist.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_sessionlist.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagefactory.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_imagefactory.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_nearby_filter.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_dialog_nearby_filter.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_image.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\message_image.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_imagefactory_fliter.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_imagefactory_fliter.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_bottom.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_otherprofile_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_usersetting.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_usersetting.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_plus.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\message_plus.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_emote.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\listitem_emote.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_selfintroduction.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_otherprofile_selfintroduction.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_switcher.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\common_switcher.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_toast.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\common_toast.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baseweb.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\activity_baseweb.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_fullscreen_mask.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_fullscreen_mask.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_audioditor.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_message_audioditor.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_feed.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_otherprofile_feed.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_simplelist.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_dialog_simplelist.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_otherfeedlist.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\layout\\include_dialog_otherfeedlist.xml"
+    }
+]

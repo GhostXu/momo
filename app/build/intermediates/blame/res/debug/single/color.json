@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\color\\text_color_selector_default.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\color\\text_color_selector_default.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\color\\feed_site_textcolor.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\color\\feed_site_textcolor.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\color\\switcher_textcolor.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\color\\switcher_textcolor.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\color\\profile_bottom_text_color.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\color\\profile_bottom_text_color.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\color\\btn_text_color.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\color\\btn_text_color.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\color\\maintab_text_color.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\color\\maintab_text_color.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\color\\radiobutton_text_color.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\color\\radiobutton_text_color.xml"
+    }
+]

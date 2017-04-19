@@ -1,0 +1,1090 @@
+[
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_1_active.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_1_active.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_reg_album.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_reg_album.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_dis_f2.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_dis_f2.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_2_active.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_2_active.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tabselector2_center_select.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_center_select.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tb_item_on.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_tb_item_on.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e28.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e28.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_blue_disable.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_blue_disable.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_common_tabseletor_on.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_common_tabseletor_on.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_chatbtn2_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_chatbtn2_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e45.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e45.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_msgbox_send_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_msgbox_send_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e14.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e14.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_profilebar_unfollow_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_profilebar_unfollow_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_user_location.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_user_location.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_loading_msgplus_03.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_loading_msgplus_03.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_android.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_android.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_chat_active.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_chat_active.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e57.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e57.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cropphoto_buoy.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_cropphoto_buoy.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edittext_normal_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\edittext_normal_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_intro_bg.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\index_intro_bg.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_small_normal_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_small_normal_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_normal_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_searchbar_clear_press.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_searchbar_clear_press.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_dis_5.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_dis_5.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_content_1.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\index_content_1.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_common_def_header.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_common_def_header.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_loading_msgplus_01.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_loading_msgplus_01.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e16.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e16.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_loadbar.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_loadbar.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e43.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e43.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_plusbar_camera_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_plusbar_camera_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_group_vip_level1.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_group_vip_level1.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_popsubmit_disable.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_popsubmit_disable.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_index_totaluser.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_index_totaluser.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_msgbox_send_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_msgbox_send_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e47.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e47.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_topbar_shadow.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_topbar_shadow.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e2.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e2.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_bottombar_center_press.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_bottombar_center_press.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic_about_logo.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\pic_about_logo.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_user_famale.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_user_famale.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e41.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e41.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bottombar_disable.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_bottombar_disable.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_user_signature2_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_user_signature2_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_cover_userheader_outerpress.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_cover_userheader_outerpress.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e50.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e50.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_chat.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_chat.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_topbar_logo.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_topbar_logo.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e12.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e12.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_chat_plusbar.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_chat_plusbar.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_user_signature_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_user_signature_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_topbar_dropdown_arrow.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_topbar_dropdown_arrow.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e18.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e18.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_tweibov.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_tweibov.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_feed_comment_highlight.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_feed_comment_highlight.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_topbar.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_topbar.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_topbar_def_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_topbar_def_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e31.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e31.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_gcoding.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\icon_gcoding.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_chatbtn_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_chatbtn_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_5_active.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_5_active.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic_index_background.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\pic_index_background.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_4_active.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_4_active.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_refrashbar_cancel_press.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_refrashbar_cancel_press.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_content_5.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\index_content_5.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_3_active.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_3_active.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userpro_sina_large.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userpro_sina_large.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_dis_1.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_dis_1.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_card_inner_top_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_card_inner_top_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_plusbar_pic_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_plusbar_pic_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_chatbtn_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_chatbtn_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_group_level2.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_group_level2.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_white_disable.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_white_disable.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tabselector2_right_select.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_right_select.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_profilebar_forbid_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_profilebar_forbid_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_card_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_card_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_msgtip_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_msgtip_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e36.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e36.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tab_bluelight_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_tab_bluelight_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_refrashbar_cancel_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_refrashbar_cancel_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_card_inner_bottom_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_card_inner_bottom_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userpro_renren_large.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userpro_renren_large.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_group.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_group.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e5.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e5.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_group_level1.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_group_level1.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e37.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e37.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edittext_multiline_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\edittext_multiline_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_5_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_5_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e54.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e54.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_card_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_card_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e3.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e3.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_new.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_new.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_party.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_party.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_3_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_3_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tabselector2_left_select.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_left_select.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_douban.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_douban.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_chatbtn3_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_chatbtn3_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_bottom_2.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\index_bottom_2.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tabselector2_full_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_full_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_groupowner.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_groupowner.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_1_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_1_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_content_4.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\index_content_4.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e21.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e21.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_user_loctime.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_user_loctime.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e10.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e10.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_msgtip_point.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_msgtip_point.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_user_signature2_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_user_signature2_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chatbar_audiobtn_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chatbar_audiobtn_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_popsubmit_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_popsubmit_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e35.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e35.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_submit_disable.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_submit_disable.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_card_inner_top_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_card_inner_top_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e40.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e40.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic_about_immomo.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\pic_about_immomo.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_plusbar_present_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_plusbar_present_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tab_bluelight_selectedpress.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_tab_bluelight_selectedpress.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_dropmenu_selector.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_dropmenu_selector.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tab_bluelight_selected.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_tab_bluelight_selected.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_profile_vip.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_profile_vip.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e55.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e55.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_topbar_save.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_topbar_save.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_topbar_more.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_topbar_more.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_multipic.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_multipic.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_vip.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_vip.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_hot.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_hot.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e17.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e17.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_card_inner_bottom_center_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_card_inner_bottom_center_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_content_3.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\index_content_3.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e11.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e11.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e26.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e26.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e20.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e20.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_card_inner_bottom_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_card_inner_bottom_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_small_normal_disable.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_small_normal_disable.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_msgbox_receive_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_msgbox_receive_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_chat_emote_selector.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_chat_emote_selector.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e4.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e4.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_popsubmit_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_popsubmit_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_bottom_1.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\index_bottom_1.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tabselector2_left_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_left_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_bottombar_center_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_bottombar_center_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_feed_comment.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_feed_comment.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_user_person.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_user_person.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e30.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e30.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_def_map.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_def_map.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_loading_msgplus_02.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_loading_msgplus_02.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_common_droparrow_up.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_common_droparrow_up.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e44.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e44.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_dropmenu_topbar.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_dropmenu_topbar.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_topbar_search.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_topbar_search.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_emote_back.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_emote_back.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_fav.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_fav.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_cover_userheader_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_cover_userheader_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_dis_6.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_dis_6.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_dis_f1.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_dis_f1.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_icon.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_bothfollow.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_bothfollow.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tabselector2_full_select.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_full_select.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_userheader_vip_shadow.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_userheader_vip_shadow.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e46.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e46.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\head.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edittext_sendmsg_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\edittext_sendmsg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_profilebar_follow_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_profilebar_follow_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_loading_msgplus_04.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_loading_msgplus_04.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_reg_userhead.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_reg_userhead.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e27.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e27.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_blue_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_blue_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e13.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e13.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_welcome_ctrlbar.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_welcome_ctrlbar.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tab_bluelight_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_tab_bluelight_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_common_tabselector.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_common_tabselector.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_plusbar_location_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_plusbar_location_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e32.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e32.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tabselector2_center_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_center_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e25.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e25.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_logo_blue.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_logo_blue.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_searchbar_clear_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_searchbar_clear_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_card_inner_bottom_left_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_card_inner_bottom_left_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_small_normal_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_small_normal_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic_index_logo.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\pic_index_logo.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_tweibo.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_tweibo.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e34.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e34.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e8.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e8.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_user_signature_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_user_signature_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_chatbtn2_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_chatbtn2_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_weibo.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_weibo.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e56.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e56.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e15.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e15.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_submit_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_submit_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_white_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_white_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_dis_4.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_dis_4.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_content_2.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\index_content_2.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic_index_copyright.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\pic_index_copyright.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_chatbar_textmode.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_chatbar_textmode.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_submit_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_submit_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edittext_normal_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\edittext_normal_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_common_def_map.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_common_def_map.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tabselector2_right_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_right_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bottombar_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_bottombar_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_bottom_3.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\index_bottom_3.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_blue_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_blue_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_dropmenu.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_dropmenu.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e22.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e22.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_plus_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_plus_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_card_inner_bottom_right_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_card_inner_bottom_right_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e52.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e52.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cropphoto_buoy2.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_cropphoto_buoy2.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_feed_more.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_feed_more.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_chat_dis_active.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_chat_dis_active.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_chatbtn3_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_chatbtn3_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e53.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e53.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_group_vip_level3.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_group_vip_level3.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e51.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e51.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_2_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_2_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_4_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_4_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e6.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e6.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bottombar_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_bottombar_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_audio_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_audio_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e49.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e49.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_profilebar_chat_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_profilebar_chat_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userpro_bind_press.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userpro_bind_press.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_loading.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_loading.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e24.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e24.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_emote_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_emote_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_common_toast.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_common_toast.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_group_level3.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_group_level3.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_welcome_about_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_welcome_about_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_bottom_5.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\index_bottom_5.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e38.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e38.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e19.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e19.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_publish_emote.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_publish_emote.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e33.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e33.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e39.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e39.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_dis_3.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_dis_3.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_topbar_profile.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_topbar_profile.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_user_male.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_user_male.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_chat_dis_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_chat_dis_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_weibov.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_weibov.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edittext_normal_focus.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\edittext_normal_focus.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_dis_2.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_dis_2.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e1.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e1.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_popwindow.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_popwindow.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_normal_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\picture_cut_button_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\picture_cut_button_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e42.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e42.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edittext_multiline_focus.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\edittext_multiline_focus.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_apple.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_apple.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_white_press.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_white_press.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e48.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e48.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_dropmenu_up.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_dropmenu_up.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e29.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e29.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_def_pic.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_def_pic.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_topbar_back_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_topbar_back_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_unlogin_bar.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_unlogin_bar.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_bottom_4.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\index_bottom_4.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e23.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e23.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_normal_disable.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_disable.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_group_vip_level2.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_group_vip_level2.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_topbar_rotation.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_topbar_rotation.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_topbar_def_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\btn_topbar_def_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_cover_userheader.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_cover_userheader.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_common_droparrow.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_common_droparrow.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userinfo_renren.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_renren.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_keyboard_normal.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_keyboard_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e7.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e7.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_msgbox_receive_normal.9.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\bg_msgbox_receive_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_userpro_tweibo_large.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_userpro_tweibo_large.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zemoji_e58.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\zemoji_e58.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_common_arrow.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_common_arrow.png"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_reg_camera.png",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable-hdpi\\ic_reg_camera.png"
+    }
+]

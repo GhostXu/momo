@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_default.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\edittext_default.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_selected.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_selected.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_chatbtn.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_send.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_message_box_send.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_profile_bottom_icon_follow.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_profile_bottom_icon_follow.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_nomarl.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_nomarl.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tab_center.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_tab_center.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_headerbar_spinner.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_headerbar_spinner.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_failed.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_message_status_failed.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_small_default.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_small_default.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_male.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_gender_male.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_header_defaul.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_header_defaul.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_simplelist.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_dialog_simplelist.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_profile_bottom_icon_chat.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_profile_bottom_icon_chat.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bglistitem_selector_user.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bglistitem_selector_user.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_search_clear.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_search_clear.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tab_full.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_tab_full.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bglistitem_selector.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bglistitem_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_groupparty_desc.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_groupparty_desc.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_listitem_selector.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_dialog_listitem_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_receive.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_message_box_receive.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_sending.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_message_status_sending.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_card_inner_bottom_right.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_card_inner_bottom_right.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_card_inner_bottom.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_card_inner_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_multiline.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\edittext_multiline.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_download_process_bar.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_download_process_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_card_inner_bottom_left.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_card_inner_bottom_left.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_site.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\ic_tab_site.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_profile_bottom_icon_unfollow.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_profile_bottom_icon_unfollow.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_reflush_cancel.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_reflush_cancel.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_photo.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_message_photo.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_plusitem.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_chat_plusitem.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_repeat.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_chat_repeat.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_maintab_item_lightblue.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_maintab_item_lightblue.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_user_signature.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_user_signature.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bglistitem_selector_feedcomments.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bglistitem_selector_feedcomments.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_submit.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_default_submit.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_sendmsg.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\edittext_sendmsg.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottombar.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_bottombar.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bglistitem_selector_session_select.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bglistitem_selector_session_select.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn2.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_chatbtn2.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_default.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_sended.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_message_status_sended.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_press.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_press.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message_rbtn_bg.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\message_rbtn_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emote_selector.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_emote_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tab_left.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_tab_left.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_vipavatar_press.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\round_corner_vipavatar_press.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_readed.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_message_status_readed.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_profile_bottom_icon_report.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_profile_bottom_icon_report.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tab_right.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_tab_right.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_transition.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\list_selector_transition.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_vipavatar_cover.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_vipavatar_cover.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tips.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_tips.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_card_inner_bottom_center.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_card_inner_bottom_center.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_new.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_message_status_new.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_nearby.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\ic_tab_nearby.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_friend.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\ic_tab_friend.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_grouplist_ower.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_grouplist_ower.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_card.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_chat.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\ic_tab_chat.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_userpro_press.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_userpro_press.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_white.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_default_white.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_famal.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_gender_famal.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_profile.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\ic_tab_profile.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_filter_cover.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_filter_cover.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn3.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_chatbtn3.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_popsubmit.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_default_popsubmit.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_nearbygroup_parent.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_nearbygroup_parent.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tb_item_center.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\bg_tb_item_center.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_blue.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\btn_default_blue.xml"
+    },
+    {
+        "merged": "E:\\Android\\immomo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_gray.xml",
+        "source": "E:\\Android\\immomo\\app\\src\\main\\res\\drawable\\round_corner_filter_gray.xml"
+    }
+]

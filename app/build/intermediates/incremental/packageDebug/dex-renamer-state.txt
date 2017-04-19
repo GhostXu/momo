@@ -1,0 +1,7 @@
+#Wed Apr 19 17:18:06 CST 2017
+base.0=E\:\\Android\\immomo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_14acaadc178c0f3d247f623f4679fc85c8c6bc53
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Android\\immomo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_56d1c2401d8e2245c5515ba3f0931c10a1cb0543\\classes.dex
+base.1=E\:\\Android\\immomo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_56d1c2401d8e2245c5515ba3f0931c10a1cb0543
+file.0=E\:\\Android\\immomo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_14acaadc178c0f3d247f623f4679fc85c8c6bc53\\classes.dex
